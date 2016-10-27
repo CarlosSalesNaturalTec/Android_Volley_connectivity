@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome to Android Volley Tutorial !!\n Choose a menu option."
+        android:text="Conectividade utilizando Android Volley API !!\n Escolha um método:"
         android:layout_marginTop="20dp"
         android:textAlignment="center"
         style="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Menu"
@@ -23,27 +23,27 @@
         android:layout_marginBottom="5dp"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:text="Get String "/>
+        android:text="Obter String "/>
     <Button
         android:id="@+id/button_get_Json_object"
         android:layout_marginTop="5dp"
         android:layout_marginBottom="5dp"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:text="Get JsonObject "/>
+        android:text="Obter JsonObject "/>
     <Button
         android:id="@+id/button_get_Json_array"
         android:layout_marginTop="5dp"
         android:layout_marginBottom="5dp"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:text="Get JsonArray "/>
+        android:text="Obter JsonArray "/>
     <Button
         android:id="@+id/button_get_image"
         android:layout_marginTop="5dp"
         android:layout_marginBottom="5dp"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:text="Get Image "/>
+        android:text="Obter Imagem "/>
 
 </LinearLayout>

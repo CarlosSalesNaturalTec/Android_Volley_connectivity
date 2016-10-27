@@ -29,7 +29,7 @@ import java.io.UnsupportedEncodingException;
 public class MainActivity extends AppCompatActivity {
 
     private static final String IMAGE_REQUEST_URL = "http://androidtutorialpoint.com/api/lg_nexus_5x";
-    private static final String STRING_REQUEST_URL = "http://androidtutorialpoint.com/api/volleyString";
+    private static final String STRING_REQUEST_URL = "http://webserverone.azurewebsites.net/webService1.asmx/Visitantes";
     private static final String JSON_OBJECT_REQUEST_URL = "http://androidtutorialpoint.com/api/volleyJsonObject";
     private static final String JSON_ARRAY_REQUEST_URL = "http://androidtutorialpoint.com/api/volleyJsonArray";
 
